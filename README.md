@@ -44,6 +44,7 @@ Loupedeck 5.9 works flawlessly with Photoshop.
 
 - On ARM (create folders if necessary):  
   `C:\Program Files\Common Files\Adobe\UXP\Plugins\External\a3cd5ec5_6.0.45207`
+3. Go to Edition -> Preferences -> Plugins... and "Actívate developer tools" (both in Photoshop and Photoshop Beta).
 
 ### ✅ Why this works:
 Because the plugin is written in **JavaScript**, which is architecture-independent — it works on both x64 and ARM.
